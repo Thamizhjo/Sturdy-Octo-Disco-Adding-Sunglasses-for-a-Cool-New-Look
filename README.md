@@ -118,4 +118,5 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 ```
 ![ss8](https://github.com/user-attachments/assets/4601f8b1-cfc5-42aa-92d1-8a13e02953f7)
 
-
+## Result:
+Thus, the creative project designed to overlay sunglasses on individual passport size photo has been successfully executed.
